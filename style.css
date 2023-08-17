@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  /* background: red; */
+}
+#page1 {
+  height: 100vh;
+  width: 100%;
+  background: #000;
+}
+#page2 {
+  height: 100vh;
+  width: 100%;
+  background: #cf1717;
+}
+#page3 {
+  height: 100vh;
+  width: 100%;
+  background: #535f16;
+}
+#page4 {
+  height: 100vh;
+  width: 100%;
+  background: #250d56;
+}
